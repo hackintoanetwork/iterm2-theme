@@ -416,11 +416,11 @@
     "Green Component" : 0.67843137254901964
   },
   "Ansi 11 Color" : {
-    "Red Component" : 0.97647058823529409,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.68627450980392157,
+    "Red Component" : 0.99999994039535522,
+    "Color Space" : "P3",
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.88627450980392153
+    "Green Component" : 1
   },
   "Sync Title" : false,
   "Ansi 8 Color (Dark)" : {
@@ -822,11 +822,11 @@
   "Use Separate Colors for Light and Dark Mode" : false,
   "Draw Powerline Glyphs" : true,
   "Ansi 3 Color" : {
-    "Red Component" : 0.97647058823529409,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.68627450980392157,
+    "Red Component" : 0.99999994039535522,
+    "Color Space" : "P3",
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.88627450980392153
+    "Green Component" : 1
   },
   "Blinking Cursor" : true,
   "Ansi 6 Color (Light)" : {
